@@ -49,7 +49,7 @@
                         android:id="@+id/companyNameTv"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="Audacity IT Solutions Ltd."
+                        android:text="Vokers"
                         android:textSize="@dimen/value_20sp"
                         android:layout_gravity="center_horizontal"
                         android:gravity="center_horizontal"/>
@@ -58,7 +58,7 @@
                         android:id="@+id/companyTagTv"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="Best App Developer in Bangladesh"
+                        android:text="We are unique"
                         android:textSize="@dimen/value_13sp"
                         android:layout_gravity="center_horizontal"
                         android:gravity="center_horizontal"

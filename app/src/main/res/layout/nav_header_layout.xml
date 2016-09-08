@@ -11,13 +11,13 @@
         android:layout_height="@dimen/header_view_height"
         android:background="@drawable/img_nav_header">
 
-        <ImageView
+        <!--<ImageView
             android:id="@+id/navHeaderImgView"
             android:layout_width="@dimen/header_view_logo_width"
             android:layout_height="@dimen/header_view_logo_height"
             android:src="@drawable/app_inside_logo"
             android:layout_centerHorizontal="true"
-            android:layout_centerVertical="true"/>
+            android:layout_centerVertical="true"/>-->
 
     </RelativeLayout>
 
